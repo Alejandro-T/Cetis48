@@ -1,0 +1,43 @@
+C:\Users\ale\Desktop\Geometria y geometria\proyecto final\bin\Debug\proyecto final.exe.config
+C:\Users\ale\Desktop\Geometria y geometria\proyecto final\bin\Debug\proyecto final.exe
+C:\Users\ale\Desktop\Geometria y geometria\proyecto final\bin\Debug\proyecto final.pdb
+C:\Users\ale\Desktop\Geometria y geometria\proyecto final\obj\Debug\proyecto_final.Form1.resources
+C:\Users\ale\Desktop\Geometria y geometria\proyecto final\obj\Debug\proyecto_final.Properties.Resources.resources
+C:\Users\ale\Desktop\Geometria y geometria\proyecto final\obj\Debug\proyecto final.csproj.GenerateResource.Cache
+C:\Users\ale\Desktop\Geometria y geometria\proyecto final\obj\Debug\proyecto final.exe
+C:\Users\ale\Desktop\Geometria y geometria\proyecto final\obj\Debug\proyecto final.pdb
+C:\Users\ale\Desktop\Geometria y geometria\proyecto final\obj\Debug\proyecto_final.Menu.resources
+C:\Users\ale\Desktop\Geometria y geometria\proyecto final\obj\Debug\proyecto_final.Distancia_y_punto_medio.resources
+C:\Users\ale\Desktop\Geometria y geometria\proyecto final\obj\Debug\proyecto final.csprojResolveAssemblyReference.cache
+C:\Users\ale\Desktop\Geometria y geometria\proyecto final\obj\Debug\proyecto_final.Area_y_Perimetro.resources
+C:\Users\ale\Desktop\Geometria y geometria\proyecto final\obj\Debug\proyecto_final.Pendiente_y_Angulos.resources
+F:\Geometria y geometria\proyecto final\bin\Debug\proyecto final.exe.config
+F:\Geometria y geometria\proyecto final\obj\Debug\proyecto final.exe
+F:\Geometria y geometria\proyecto final\obj\Debug\proyecto final.pdb
+F:\Geometria y geometria\proyecto final\obj\Debug\proyecto final.csprojResolveAssemblyReference.cache
+F:\Geometria y geometria\proyecto final\obj\Debug\proyecto_final.Area_y_Perimetro.resources
+F:\Geometria y geometria\proyecto final\obj\Debug\proyecto_final.Distancia_y_punto_medio.resources
+F:\Geometria y geometria\proyecto final\obj\Debug\proyecto_final.Form1.resources
+F:\Geometria y geometria\proyecto final\obj\Debug\proyecto_final.Menu.resources
+F:\Geometria y geometria\proyecto final\obj\Debug\proyecto_final.Pendiente_y_Angulos.resources
+F:\Geometria y geometria\proyecto final\obj\Debug\proyecto_final.Properties.Resources.resources
+F:\Geometria y geometria\proyecto final\obj\Debug\proyecto final.csproj.GenerateResource.Cache
+F:\Geometria y geometria\proyecto final\bin\Debug\proyecto final.exe
+F:\Geometria y geometria\proyecto final\bin\Debug\proyecto final.pdb
+C:\Program Files (x86)\Geometria Analitica\proyecto final\bin\Debug\proyecto final.exe.config
+C:\Program Files (x86)\Geometria Analitica\proyecto final\obj\Debug\proyecto final.exe
+C:\Program Files (x86)\Geometria Analitica\proyecto final\obj\Debug\proyecto final.pdb
+D:\PF\proyecto final\obj\Debug\proyecto final.pdb
+C:\PF\proyecto final\obj\Debug\proyecto final.pdb
+C:\PF\proyecto final\bin\Debug\proyecto final.exe
+C:\PF\proyecto final\bin\Debug\proyecto final.pdb
+C:\PF\proyecto final\obj\Debug\proyecto final.csprojAssemblyReference.cache
+C:\PF\proyecto final\obj\Debug\proyecto_final.Area_y_Perimetro.resources
+C:\PF\proyecto final\obj\Debug\proyecto_final.Distancia_y_punto_medio.resources
+C:\PF\proyecto final\obj\Debug\proyecto_final.Form1.resources
+C:\PF\proyecto final\obj\Debug\proyecto_final.Menu.resources
+C:\PF\proyecto final\obj\Debug\proyecto_final.Pendiente_y_Angulos.resources
+C:\PF\proyecto final\obj\Debug\proyecto_final.Properties.Resources.resources
+C:\PF\proyecto final\obj\Debug\proyecto final.csproj.GenerateResource.cache
+C:\PF\proyecto final\obj\Debug\proyecto final.csproj.CoreCompileInputs.cache
+C:\PF\proyecto final\obj\Debug\proyecto final.exe
